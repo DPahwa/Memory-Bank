@@ -1,21 +1,15 @@
 <h1 align="center">  &nbsp; MemoryBank  </h1>
 
-<h1></h1>
-
-> Built with MERN stack (MongoDB, Express, React, & Node).
-> Memories App, where you can post interesting events that happened in your lives
 
 
-
-
-### <h2 align="center">  💫💫💫  &nbsp; [Live Demo](APNI PROJECT KI ADD KARNI HAI) 💫💫💫  </h2>
+### <h2 align="center">   ⭐️⭐️ &nbsp; [Live Demo](APNI PROJECT KI ADD KARNI HAI) ⭐️⭐️ </h2>
 
 
 
 ## 📜 &nbsp; Table of contents
 
 - [Introduction](#--introduction)
-- [Features](#--main-features)
+- [Features](#--features)
 - [Setup](#--setup)
 - [Technologies](#--technologies)
 - [Key Concepts](#--key-concepts)
@@ -39,7 +33,6 @@
 > This App was made to post user's interesting events that happing in their day to day life
 
 >Users can post their event and like other users posts and comment on them
-
 
 
 #### Project methodology
@@ -67,8 +60,7 @@
 
 ## 💻 &nbsp; Setup
 
-- To run this project,  locally on your system
--   
+- To run this project,  locally on your system   
 ```
 Install Backend Dependencies
 $ cd  server 
@@ -88,8 +80,6 @@ $ npm start
 
 - Backend server will be running on http://localhost:5000
 - Frontend server will be running on http://localhost:3000
-
-> For CONNECTION_URL for the backend server, you have to   visit [mongodb atlas](https://www.mongodb.com/cloud/atlas). Here you can create your own collection and can use connect app URL for CONNECTION_URL
 
 <h1></h1>
 
